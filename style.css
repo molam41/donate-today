@@ -126,3 +126,30 @@ footer {
     padding: 20px;
 
 }
+
+.joining-donation {
+    display: flex;
+    background-color: #F8F8F8;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.joining-donation h1 {
+    padding: 50px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.start-donation-button {
+    padding: 10px 20px;
+    background-color: #14a360;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
